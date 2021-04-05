@@ -55,12 +55,12 @@ e)
 
 
 f)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch: Mismatch  G != T 
+- Left entry calculation:  -1 -1 = -2
+- Above entry calculation: 2 - 1 = 1
+- Diagonal entry calculation: 0 + 0 = 0
+- Max score: 1 from Above
 
 
 
-(Did you remember to add your name to this Markdown file?)
+(Did you remember to add your name to this Markdown file?) Yessir
